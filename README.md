@@ -1,5 +1,5 @@
 # Payment-Gateway-Integration
-# GRIPMAY23
+# GRIP June23
 ## Features
 
 A simple website where payment gateway is integrated.
