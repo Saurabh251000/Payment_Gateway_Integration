@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+
+.header{
+    height: 84px;
+    border: 1px solid gray;
+    background-color: #545252;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+    border-bottom: 2px solid white;
+
+}
+.left{
+    height: 63px;
+    width: 550px;
+    /* background-color: lightpink; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.right{
+    height: 63px;
+    width: 310px;
+    display: flex;
+    margin-right: 10px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    margin-left: 20px;
+}
+.icon{
+    height: 63px;
+    width: 53px;
+}
+.title{
+    margin-left: 10px;
+    
+}
+.name{
+    font-size: 30px;
+    color: rgb(255 214 28);
+    font-weight: 500;
+}
+.quto{
+    font-size: 12px;
+    color: white;
+    margin-left: 22px;
+    /* font-weight: 500; */
+}
+.button{
+    font-size: 16px;
+    font-weight: 500;
+    height: 40px;
+    width: 100px;
+    margin-left: 5px;
+    border: none;
+    border-radius: 40px;
+    transition: opacity 0.15s;
+}
+.button:hover{
+    background-color:rgb(255 214 28); 
+    color: white;
+}
+.button:active{
+    opacity: 0.8;
+}
