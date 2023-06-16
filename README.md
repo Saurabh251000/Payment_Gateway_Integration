@@ -1,6 +1,9 @@
 # Payment-Gateway-Integration
 # GRIP June23
-## Features
+## This is Task-3 of Web & Mobile Developement task
+
+
+## Task key Featurs
 
 A simple website where payment gateway is integrated.
 
@@ -10,7 +13,12 @@ A simple website where payment gateway is integrated.
 
 ◇ On any page / email, only basic information is needed.
 
+◇ Website is hosting at github.io
+
+
 ## Tech Stack
+
+**Tool Used:** VS Code
 
 **Languages Used:** HTML, CSS, JAVASCRIPT
 
@@ -18,6 +26,8 @@ A simple website where payment gateway is integrated.
             (It supports payments using credit/debit card , UPI , wallet , netbanking. The payment gateway also sends an email and a receipt to the recipient's email-id.)
 
 
-Website link - https://github.com/Saurabh251000/Payment_Gateway_Integration
+Website link- https://github.com/Saurabh251000/Payment_Gateway_Integration
+
+Github repository link- 
 
 Youtube video link- 
