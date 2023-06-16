@@ -18,7 +18,7 @@ A simple website where payment gateway is integrated.
 
 ## Tech Stack
 
-**Tool Used:** VS Code
+**Tool Used:** VS Code, Github
 
 **Languages Used:** HTML, CSS, JAVASCRIPT
 
@@ -30,4 +30,4 @@ Website link- https://saurabh251000.github.io/Payment_Gateway_Integration/
 
 Github repository link-  https://github.com/Saurabh251000/Payment_Gateway_Integration
 
-Youtube video link- 
+Youtube video link- https://youtu.be/TxIK5bjJGGg
