@@ -26,8 +26,8 @@ A simple website where payment gateway is integrated.
             (It supports payments using credit/debit card , UPI , wallet , netbanking. The payment gateway also sends an email and a receipt to the recipient's email-id.)
 
 
-Website link- https://github.com/Saurabh251000/Payment_Gateway_Integration
+Website link- https://saurabh251000.github.io/Payment_Gateway_Integration/   
 
-Github repository link- 
+Github repository link-  https://github.com/Saurabh251000/Payment_Gateway_Integration
 
 Youtube video link- 
