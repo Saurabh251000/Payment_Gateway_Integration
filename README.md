@@ -1,9 +1,9 @@
 # Payment-Gateway-Integration
 # GRIP June23
-## This is Task-3 of Web & Mobile Developement task
+## This is the #task-3 of Web & Mobile Developement task
 
 
-## Task key Featurs
+## Task key Features
 
 A simple website where payment gateway is integrated.
 
